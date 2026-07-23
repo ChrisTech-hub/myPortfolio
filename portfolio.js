@@ -1,3 +1,5 @@
+console.log("Javasript Loaded"):
+
 window.addEventListener("load", () => {
     const loader = document.getElementById("loader");
 
